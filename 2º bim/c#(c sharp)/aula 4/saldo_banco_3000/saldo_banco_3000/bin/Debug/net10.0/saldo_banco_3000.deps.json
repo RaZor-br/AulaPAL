@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "saldo_banco_3000/1.0.0": {
+        "runtime": {
+          "saldo_banco_3000.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "saldo_banco_3000/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

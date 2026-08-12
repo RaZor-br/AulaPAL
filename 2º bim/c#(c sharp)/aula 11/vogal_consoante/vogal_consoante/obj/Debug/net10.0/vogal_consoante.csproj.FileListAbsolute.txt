@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\vogal_consoante\vogal_consoante\bin\Debug\net10.0\vogal_consoante.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\vogal_consoante\vogal_consoante\bin\Debug\net10.0\vogal_consoante.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\vogal_consoante\vogal_consoante\bin\Debug\net10.0\vogal_consoante.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\vogal_consoante\vogal_consoante\bin\Debug\net10.0\vogal_consoante.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\vogal_consoante\vogal_consoante\bin\Debug\net10.0\vogal_consoante.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\vogal_consoante\vogal_consoante\obj\Debug\net10.0\vogal_consoante.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\vogal_consoante\vogal_consoante\obj\Debug\net10.0\vogal_consoante.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\vogal_consoante\vogal_consoante\obj\Debug\net10.0\vogal_consoante.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\vogal_consoante\vogal_consoante\obj\Debug\net10.0\vogal_consoante.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\vogal_consoante\vogal_consoante\obj\Debug\net10.0\vogal_consoante.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\vogal_consoante\vogal_consoante\obj\Debug\net10.0\refint\vogal_consoante.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\vogal_consoante\vogal_consoante\obj\Debug\net10.0\vogal_consoante.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\vogal_consoante\vogal_consoante\obj\Debug\net10.0\vogal_consoante.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\vogal_consoante\vogal_consoante\obj\Debug\net10.0\ref\vogal_consoante.dll

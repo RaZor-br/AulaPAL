@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\valor_movel\valor_movel\bin\Debug\net10.0\valor_movel.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\valor_movel\valor_movel\bin\Debug\net10.0\valor_movel.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\valor_movel\valor_movel\bin\Debug\net10.0\valor_movel.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\valor_movel\valor_movel\bin\Debug\net10.0\valor_movel.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\valor_movel\valor_movel\bin\Debug\net10.0\valor_movel.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\valor_movel\valor_movel\obj\Debug\net10.0\valor_movel.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\valor_movel\valor_movel\obj\Debug\net10.0\valor_movel.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\valor_movel\valor_movel\obj\Debug\net10.0\valor_movel.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\valor_movel\valor_movel\obj\Debug\net10.0\valor_movel.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\valor_movel\valor_movel\obj\Debug\net10.0\valor_movel.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\valor_movel\valor_movel\obj\Debug\net10.0\refint\valor_movel.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\valor_movel\valor_movel\obj\Debug\net10.0\valor_movel.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\valor_movel\valor_movel\obj\Debug\net10.0\valor_movel.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\valor_movel\valor_movel\obj\Debug\net10.0\ref\valor_movel.dll

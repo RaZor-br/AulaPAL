@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\area_cilindro\area_cilindro\bin\Debug\net10.0\area_cilindro.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\area_cilindro\area_cilindro\bin\Debug\net10.0\area_cilindro.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\area_cilindro\area_cilindro\bin\Debug\net10.0\area_cilindro.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\area_cilindro\area_cilindro\bin\Debug\net10.0\area_cilindro.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\area_cilindro\area_cilindro\bin\Debug\net10.0\area_cilindro.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\area_cilindro\area_cilindro\obj\Debug\net10.0\area_cilindro.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\area_cilindro\area_cilindro\obj\Debug\net10.0\area_cilindro.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\area_cilindro\area_cilindro\obj\Debug\net10.0\area_cilindro.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\area_cilindro\area_cilindro\obj\Debug\net10.0\area_cilindro.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\area_cilindro\area_cilindro\obj\Debug\net10.0\area_cilindro.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\area_cilindro\area_cilindro\obj\Debug\net10.0\refint\area_cilindro.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\area_cilindro\area_cilindro\obj\Debug\net10.0\area_cilindro.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\area_cilindro\area_cilindro\obj\Debug\net10.0\area_cilindro.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\area_cilindro\area_cilindro\obj\Debug\net10.0\ref\area_cilindro.dll

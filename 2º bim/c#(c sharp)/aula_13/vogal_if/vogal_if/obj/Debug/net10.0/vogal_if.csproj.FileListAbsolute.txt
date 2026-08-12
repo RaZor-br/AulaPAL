@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\vogal_if\vogal_if\bin\Debug\net10.0\vogal_if.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\vogal_if\vogal_if\bin\Debug\net10.0\vogal_if.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\vogal_if\vogal_if\bin\Debug\net10.0\vogal_if.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\vogal_if\vogal_if\bin\Debug\net10.0\vogal_if.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\vogal_if\vogal_if\bin\Debug\net10.0\vogal_if.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\vogal_if\vogal_if\obj\Debug\net10.0\vogal_if.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\vogal_if\vogal_if\obj\Debug\net10.0\vogal_if.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\vogal_if\vogal_if\obj\Debug\net10.0\vogal_if.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\vogal_if\vogal_if\obj\Debug\net10.0\vogal_if.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\vogal_if\vogal_if\obj\Debug\net10.0\vogal_if.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\vogal_if\vogal_if\obj\Debug\net10.0\refint\vogal_if.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\vogal_if\vogal_if\obj\Debug\net10.0\vogal_if.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\vogal_if\vogal_if\obj\Debug\net10.0\vogal_if.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\vogal_if\vogal_if\obj\Debug\net10.0\ref\vogal_if.dll

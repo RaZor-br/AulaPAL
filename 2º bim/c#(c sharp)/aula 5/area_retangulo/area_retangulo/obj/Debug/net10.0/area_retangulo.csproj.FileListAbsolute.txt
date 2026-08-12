@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\area_retangulo\area_retangulo\bin\Debug\net10.0\area_retangulo.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\area_retangulo\area_retangulo\bin\Debug\net10.0\area_retangulo.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\area_retangulo\area_retangulo\bin\Debug\net10.0\area_retangulo.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\area_retangulo\area_retangulo\bin\Debug\net10.0\area_retangulo.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\area_retangulo\area_retangulo\bin\Debug\net10.0\area_retangulo.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\area_retangulo\area_retangulo\obj\Debug\net10.0\area_retangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\area_retangulo\area_retangulo\obj\Debug\net10.0\area_retangulo.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\area_retangulo\area_retangulo\obj\Debug\net10.0\area_retangulo.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\area_retangulo\area_retangulo\obj\Debug\net10.0\area_retangulo.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\area_retangulo\area_retangulo\obj\Debug\net10.0\area_retangulo.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\area_retangulo\area_retangulo\obj\Debug\net10.0\refint\area_retangulo.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\area_retangulo\area_retangulo\obj\Debug\net10.0\area_retangulo.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\area_retangulo\area_retangulo\obj\Debug\net10.0\area_retangulo.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\area_retangulo\area_retangulo\obj\Debug\net10.0\ref\area_retangulo.dll

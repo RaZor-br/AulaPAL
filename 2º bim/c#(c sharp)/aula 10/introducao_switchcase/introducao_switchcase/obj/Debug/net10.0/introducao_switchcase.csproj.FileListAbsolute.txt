@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\introducao_switchcase\introducao_switchcase\bin\Debug\net10.0\introducao_switchcase.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\introducao_switchcase\introducao_switchcase\bin\Debug\net10.0\introducao_switchcase.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\introducao_switchcase\introducao_switchcase\bin\Debug\net10.0\introducao_switchcase.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\introducao_switchcase\introducao_switchcase\bin\Debug\net10.0\introducao_switchcase.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\introducao_switchcase\introducao_switchcase\bin\Debug\net10.0\introducao_switchcase.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\introducao_switchcase\introducao_switchcase\obj\Debug\net10.0\introducao_switchcase.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\introducao_switchcase\introducao_switchcase\obj\Debug\net10.0\introducao_switchcase.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\introducao_switchcase\introducao_switchcase\obj\Debug\net10.0\introducao_switchcase.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\introducao_switchcase\introducao_switchcase\obj\Debug\net10.0\introducao_switchcase.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\introducao_switchcase\introducao_switchcase\obj\Debug\net10.0\introducao_switchcase.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\introducao_switchcase\introducao_switchcase\obj\Debug\net10.0\refint\introducao_switchcase.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\introducao_switchcase\introducao_switchcase\obj\Debug\net10.0\introducao_switchcase.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\introducao_switchcase\introducao_switchcase\obj\Debug\net10.0\introducao_switchcase.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\introducao_switchcase\introducao_switchcase\obj\Debug\net10.0\ref\introducao_switchcase.dll

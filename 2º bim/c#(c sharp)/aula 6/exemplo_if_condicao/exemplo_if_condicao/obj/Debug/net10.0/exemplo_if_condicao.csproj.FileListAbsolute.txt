@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\exemplo_if_condicao\exemplo_if_condicao\obj\Debug\net10.0\exemplo_if_condicao.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\exemplo_if_condicao\exemplo_if_condicao\obj\Debug\net10.0\exemplo_if_condicao.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\exemplo_if_condicao\exemplo_if_condicao\obj\Debug\net10.0\exemplo_if_condicao.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\exemplo_if_condicao\exemplo_if_condicao\obj\Debug\net10.0\exemplo_if_condicao.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\exemplo_if_condicao\exemplo_if_condicao\bin\Debug\net10.0\exemplo_if_condicao.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\exemplo_if_condicao\exemplo_if_condicao\bin\Debug\net10.0\exemplo_if_condicao.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\exemplo_if_condicao\exemplo_if_condicao\bin\Debug\net10.0\exemplo_if_condicao.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\exemplo_if_condicao\exemplo_if_condicao\bin\Debug\net10.0\exemplo_if_condicao.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\exemplo_if_condicao\exemplo_if_condicao\bin\Debug\net10.0\exemplo_if_condicao.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\exemplo_if_condicao\exemplo_if_condicao\obj\Debug\net10.0\exemplo_if_condicao.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\exemplo_if_condicao\exemplo_if_condicao\obj\Debug\net10.0\refint\exemplo_if_condicao.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\exemplo_if_condicao\exemplo_if_condicao\obj\Debug\net10.0\exemplo_if_condicao.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\exemplo_if_condicao\exemplo_if_condicao\obj\Debug\net10.0\exemplo_if_condicao.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\exemplo_if_condicao\exemplo_if_condicao\obj\Debug\net10.0\ref\exemplo_if_condicao.dll

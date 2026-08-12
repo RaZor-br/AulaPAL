@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\faixa_idade\faixa_idade\bin\Debug\net10.0\faixa_idade.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\faixa_idade\faixa_idade\bin\Debug\net10.0\faixa_idade.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\faixa_idade\faixa_idade\bin\Debug\net10.0\faixa_idade.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\faixa_idade\faixa_idade\bin\Debug\net10.0\faixa_idade.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\faixa_idade\faixa_idade\bin\Debug\net10.0\faixa_idade.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\faixa_idade\faixa_idade\obj\Debug\net10.0\faixa_idade.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\faixa_idade\faixa_idade\obj\Debug\net10.0\faixa_idade.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\faixa_idade\faixa_idade\obj\Debug\net10.0\faixa_idade.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\faixa_idade\faixa_idade\obj\Debug\net10.0\faixa_idade.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\faixa_idade\faixa_idade\obj\Debug\net10.0\faixa_idade.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\faixa_idade\faixa_idade\obj\Debug\net10.0\refint\faixa_idade.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\faixa_idade\faixa_idade\obj\Debug\net10.0\faixa_idade.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\faixa_idade\faixa_idade\obj\Debug\net10.0\faixa_idade.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\faixa_idade\faixa_idade\obj\Debug\net10.0\ref\faixa_idade.dll

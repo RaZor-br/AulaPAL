@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "met_pos_neg_quad/1.0.0": {
+        "runtime": {
+          "met_pos_neg_quad.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "met_pos_neg_quad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

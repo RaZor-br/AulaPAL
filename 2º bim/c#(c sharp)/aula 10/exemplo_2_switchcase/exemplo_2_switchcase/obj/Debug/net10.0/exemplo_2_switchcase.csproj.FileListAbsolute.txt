@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\exemplo_2_switchcase\exemplo_2_switchcase\bin\Debug\net10.0\exemplo_2_switchcase.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\exemplo_2_switchcase\exemplo_2_switchcase\bin\Debug\net10.0\exemplo_2_switchcase.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\exemplo_2_switchcase\exemplo_2_switchcase\bin\Debug\net10.0\exemplo_2_switchcase.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\exemplo_2_switchcase\exemplo_2_switchcase\bin\Debug\net10.0\exemplo_2_switchcase.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\exemplo_2_switchcase\exemplo_2_switchcase\bin\Debug\net10.0\exemplo_2_switchcase.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\exemplo_2_switchcase\exemplo_2_switchcase\obj\Debug\net10.0\exemplo_2_switchcase.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\exemplo_2_switchcase\exemplo_2_switchcase\obj\Debug\net10.0\exemplo_2_switchcase.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\exemplo_2_switchcase\exemplo_2_switchcase\obj\Debug\net10.0\exemplo_2_switchcase.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\exemplo_2_switchcase\exemplo_2_switchcase\obj\Debug\net10.0\exemplo_2_switchcase.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\exemplo_2_switchcase\exemplo_2_switchcase\obj\Debug\net10.0\exemplo_2_switchcase.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\exemplo_2_switchcase\exemplo_2_switchcase\obj\Debug\net10.0\refint\exemplo_2_switchcase.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\exemplo_2_switchcase\exemplo_2_switchcase\obj\Debug\net10.0\exemplo_2_switchcase.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\exemplo_2_switchcase\exemplo_2_switchcase\obj\Debug\net10.0\exemplo_2_switchcase.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\exemplo_2_switchcase\exemplo_2_switchcase\obj\Debug\net10.0\ref\exemplo_2_switchcase.dll

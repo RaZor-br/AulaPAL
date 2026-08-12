@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\produto_desconto\produto_desconto\bin\Debug\net10.0\produto_desconto.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\produto_desconto\produto_desconto\bin\Debug\net10.0\produto_desconto.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\produto_desconto\produto_desconto\bin\Debug\net10.0\produto_desconto.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\produto_desconto\produto_desconto\bin\Debug\net10.0\produto_desconto.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\produto_desconto\produto_desconto\bin\Debug\net10.0\produto_desconto.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\produto_desconto\produto_desconto\obj\Debug\net10.0\produto_desconto.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\produto_desconto\produto_desconto\obj\Debug\net10.0\produto_desconto.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\produto_desconto\produto_desconto\obj\Debug\net10.0\produto_desconto.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\produto_desconto\produto_desconto\obj\Debug\net10.0\produto_desconto.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\produto_desconto\produto_desconto\obj\Debug\net10.0\produto_desconto.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\produto_desconto\produto_desconto\obj\Debug\net10.0\refint\produto_desconto.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\produto_desconto\produto_desconto\obj\Debug\net10.0\produto_desconto.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\produto_desconto\produto_desconto\obj\Debug\net10.0\produto_desconto.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\produto_desconto\produto_desconto\obj\Debug\net10.0\ref\produto_desconto.dll

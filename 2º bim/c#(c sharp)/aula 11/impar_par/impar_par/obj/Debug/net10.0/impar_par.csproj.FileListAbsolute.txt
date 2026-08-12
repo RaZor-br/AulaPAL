@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\impar_par\impar_par\bin\Debug\net10.0\impar_par.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\impar_par\impar_par\bin\Debug\net10.0\impar_par.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\impar_par\impar_par\bin\Debug\net10.0\impar_par.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\impar_par\impar_par\bin\Debug\net10.0\impar_par.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\impar_par\impar_par\bin\Debug\net10.0\impar_par.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\impar_par\impar_par\obj\Debug\net10.0\impar_par.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\impar_par\impar_par\obj\Debug\net10.0\impar_par.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\impar_par\impar_par\obj\Debug\net10.0\impar_par.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\impar_par\impar_par\obj\Debug\net10.0\impar_par.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\impar_par\impar_par\obj\Debug\net10.0\impar_par.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\impar_par\impar_par\obj\Debug\net10.0\refint\impar_par.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\impar_par\impar_par\obj\Debug\net10.0\impar_par.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\impar_par\impar_par\obj\Debug\net10.0\impar_par.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\impar_par\impar_par\obj\Debug\net10.0\ref\impar_par.dll

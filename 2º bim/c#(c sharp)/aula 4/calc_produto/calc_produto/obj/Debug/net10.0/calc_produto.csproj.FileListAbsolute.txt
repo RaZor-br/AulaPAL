@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\calc_produto\calc_produto\bin\Debug\net10.0\calc_produto.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\calc_produto\calc_produto\bin\Debug\net10.0\calc_produto.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\calc_produto\calc_produto\bin\Debug\net10.0\calc_produto.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\calc_produto\calc_produto\bin\Debug\net10.0\calc_produto.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\calc_produto\calc_produto\bin\Debug\net10.0\calc_produto.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\calc_produto\calc_produto\obj\Debug\net10.0\calc_produto.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\calc_produto\calc_produto\obj\Debug\net10.0\calc_produto.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\calc_produto\calc_produto\obj\Debug\net10.0\calc_produto.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\calc_produto\calc_produto\obj\Debug\net10.0\calc_produto.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\calc_produto\calc_produto\obj\Debug\net10.0\calc_produto.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\calc_produto\calc_produto\obj\Debug\net10.0\refint\calc_produto.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\calc_produto\calc_produto\obj\Debug\net10.0\calc_produto.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\calc_produto\calc_produto\obj\Debug\net10.0\calc_produto.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\calc_produto\calc_produto\obj\Debug\net10.0\ref\calc_produto.dll

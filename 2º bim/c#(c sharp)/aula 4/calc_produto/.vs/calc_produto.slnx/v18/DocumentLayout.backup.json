@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1\u00BA ano\\programa\u00E7\u00E3o e algoritimo\\2\u00BA bim\\c#(c sharp)\\aula 3\\calc_produto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C44730B-620A-F8D0-5079-D4041B3C096F}|calc_produto\\calc_produto.csproj|d:\\1\u00BA ano\\programa\u00E7\u00E3o e algoritimo\\2\u00BA bim\\c#(c sharp)\\aula 3\\calc_produto\\calc_produto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C44730B-620A-F8D0-5079-D4041B3C096F}|calc_produto\\calc_produto.csproj|solutionrelative:calc_produto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\1\u00BA ano\\programa\u00E7\u00E3o e algoritimo\\2\u00BA bim\\c#(c sharp)\\aula 3\\calc_produto\\calc_produto\\Program.cs",
+              "RelativeDocumentMoniker": "calc_produto\\Program.cs",
+              "ToolTip": "D:\\1\u00BA ano\\programa\u00E7\u00E3o e algoritimo\\2\u00BA bim\\c#(c sharp)\\aula 3\\calc_produto\\calc_produto\\Program.cs",
+              "RelativeToolTip": "calc_produto\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T15:33:23.627Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

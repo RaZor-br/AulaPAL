@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\categoria_salario\categoria_salario\bin\Debug\net10.0\categoria_salario.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\categoria_salario\categoria_salario\bin\Debug\net10.0\categoria_salario.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\categoria_salario\categoria_salario\bin\Debug\net10.0\categoria_salario.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\categoria_salario\categoria_salario\bin\Debug\net10.0\categoria_salario.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\categoria_salario\categoria_salario\bin\Debug\net10.0\categoria_salario.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\categoria_salario\categoria_salario\obj\Debug\net10.0\categoria_salario.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\categoria_salario\categoria_salario\obj\Debug\net10.0\categoria_salario.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\categoria_salario\categoria_salario\obj\Debug\net10.0\categoria_salario.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\categoria_salario\categoria_salario\obj\Debug\net10.0\categoria_salario.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\categoria_salario\categoria_salario\obj\Debug\net10.0\categoria_salario.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\categoria_salario\categoria_salario\obj\Debug\net10.0\refint\categoria_salario.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\categoria_salario\categoria_salario\obj\Debug\net10.0\categoria_salario.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\categoria_salario\categoria_salario\obj\Debug\net10.0\categoria_salario.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\categoria_salario\categoria_salario\obj\Debug\net10.0\ref\categoria_salario.dll

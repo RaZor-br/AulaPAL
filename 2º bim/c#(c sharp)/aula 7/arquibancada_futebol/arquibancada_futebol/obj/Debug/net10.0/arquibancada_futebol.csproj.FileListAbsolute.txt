@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\arquibancada_futebol\arquibancada_futebol\bin\Debug\net10.0\arquibancada_futebol.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\arquibancada_futebol\arquibancada_futebol\bin\Debug\net10.0\arquibancada_futebol.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\arquibancada_futebol\arquibancada_futebol\bin\Debug\net10.0\arquibancada_futebol.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\arquibancada_futebol\arquibancada_futebol\bin\Debug\net10.0\arquibancada_futebol.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\arquibancada_futebol\arquibancada_futebol\bin\Debug\net10.0\arquibancada_futebol.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\arquibancada_futebol\arquibancada_futebol\obj\Debug\net10.0\arquibancada_futebol.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\arquibancada_futebol\arquibancada_futebol\obj\Debug\net10.0\arquibancada_futebol.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\arquibancada_futebol\arquibancada_futebol\obj\Debug\net10.0\arquibancada_futebol.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\arquibancada_futebol\arquibancada_futebol\obj\Debug\net10.0\arquibancada_futebol.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\arquibancada_futebol\arquibancada_futebol\obj\Debug\net10.0\arquibancada_futebol.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\arquibancada_futebol\arquibancada_futebol\obj\Debug\net10.0\refint\arquibancada_futebol.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\arquibancada_futebol\arquibancada_futebol\obj\Debug\net10.0\arquibancada_futebol.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\arquibancada_futebol\arquibancada_futebol\obj\Debug\net10.0\arquibancada_futebol.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\arquibancada_futebol\arquibancada_futebol\obj\Debug\net10.0\ref\arquibancada_futebol.dll

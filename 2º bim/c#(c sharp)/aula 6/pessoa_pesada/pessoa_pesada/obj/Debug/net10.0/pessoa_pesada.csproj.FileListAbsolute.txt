@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\pessoa_pesada\pessoa_pesada\bin\Debug\net10.0\pessoa_pesada.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\pessoa_pesada\pessoa_pesada\bin\Debug\net10.0\pessoa_pesada.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\pessoa_pesada\pessoa_pesada\bin\Debug\net10.0\pessoa_pesada.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\pessoa_pesada\pessoa_pesada\bin\Debug\net10.0\pessoa_pesada.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\pessoa_pesada\pessoa_pesada\bin\Debug\net10.0\pessoa_pesada.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\pessoa_pesada\pessoa_pesada\obj\Debug\net10.0\pessoa_pesada.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\pessoa_pesada\pessoa_pesada\obj\Debug\net10.0\pessoa_pesada.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\pessoa_pesada\pessoa_pesada\obj\Debug\net10.0\pessoa_pesada.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\pessoa_pesada\pessoa_pesada\obj\Debug\net10.0\pessoa_pesada.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\pessoa_pesada\pessoa_pesada\obj\Debug\net10.0\pessoa_pesada.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\pessoa_pesada\pessoa_pesada\obj\Debug\net10.0\refint\pessoa_pesada.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\pessoa_pesada\pessoa_pesada\obj\Debug\net10.0\pessoa_pesada.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\pessoa_pesada\pessoa_pesada\obj\Debug\net10.0\pessoa_pesada.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\pessoa_pesada\pessoa_pesada\obj\Debug\net10.0\ref\pessoa_pesada.dll

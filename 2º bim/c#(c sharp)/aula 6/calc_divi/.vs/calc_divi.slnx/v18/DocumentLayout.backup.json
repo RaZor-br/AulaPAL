@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1\u00BA ano\\programa\u00E7\u00E3o e algoritimo\\2\u00BA bim\\c#(c sharp)\\aula 6\\calc_divi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8D3C02B-AA30-94E5-4358-F7A63B8A7A8A}|calc_divi\\calc_divi.csproj|d:\\1\u00BA ano\\programa\u00E7\u00E3o e algoritimo\\2\u00BA bim\\c#(c sharp)\\aula 6\\calc_divi\\calc_divi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8D3C02B-AA30-94E5-4358-F7A63B8A7A8A}|calc_divi\\calc_divi.csproj|solutionrelative:calc_divi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\1\u00BA ano\\programa\u00E7\u00E3o e algoritimo\\2\u00BA bim\\c#(c sharp)\\aula 6\\calc_divi\\calc_divi\\Program.cs",
+              "RelativeDocumentMoniker": "calc_divi\\Program.cs",
+              "ToolTip": "D:\\1\u00BA ano\\programa\u00E7\u00E3o e algoritimo\\2\u00BA bim\\c#(c sharp)\\aula 6\\calc_divi\\calc_divi\\Program.cs",
+              "RelativeToolTip": "calc_divi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T16:32:25.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

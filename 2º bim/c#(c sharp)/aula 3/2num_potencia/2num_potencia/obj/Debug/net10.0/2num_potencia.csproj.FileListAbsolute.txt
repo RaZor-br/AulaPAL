@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\2num_potencia\2num_potencia\bin\Debug\net10.0\2num_potencia.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\2num_potencia\2num_potencia\bin\Debug\net10.0\2num_potencia.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\2num_potencia\2num_potencia\bin\Debug\net10.0\2num_potencia.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\2num_potencia\2num_potencia\bin\Debug\net10.0\2num_potencia.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\2num_potencia\2num_potencia\bin\Debug\net10.0\2num_potencia.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\2num_potencia\2num_potencia\obj\Debug\net10.0\2num_potencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\2num_potencia\2num_potencia\obj\Debug\net10.0\2num_potencia.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\2num_potencia\2num_potencia\obj\Debug\net10.0\2num_potencia.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\2num_potencia\2num_potencia\obj\Debug\net10.0\2num_potencia.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\2num_potencia\2num_potencia\obj\Debug\net10.0\2num_potencia.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\2num_potencia\2num_potencia\obj\Debug\net10.0\refint\2num_potencia.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\2num_potencia\2num_potencia\obj\Debug\net10.0\2num_potencia.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\2num_potencia\2num_potencia\obj\Debug\net10.0\2num_potencia.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\2num_potencia\2num_potencia\obj\Debug\net10.0\ref\2num_potencia.dll

@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\azulejos\azulejos\bin\Debug\net10.0\azulejos.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\azulejos\azulejos\bin\Debug\net10.0\azulejos.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\azulejos\azulejos\bin\Debug\net10.0\azulejos.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\azulejos\azulejos\bin\Debug\net10.0\azulejos.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\azulejos\azulejos\bin\Debug\net10.0\azulejos.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\azulejos\azulejos\obj\Debug\net10.0\azulejos.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\azulejos\azulejos\obj\Debug\net10.0\azulejos.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\azulejos\azulejos\obj\Debug\net10.0\azulejos.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\azulejos\azulejos\obj\Debug\net10.0\azulejos.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\azulejos\azulejos\obj\Debug\net10.0\azulejos.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\azulejos\azulejos\obj\Debug\net10.0\refint\azulejos.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\azulejos\azulejos\obj\Debug\net10.0\azulejos.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\azulejos\azulejos\obj\Debug\net10.0\azulejos.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\azulejos\azulejos\obj\Debug\net10.0\ref\azulejos.dll

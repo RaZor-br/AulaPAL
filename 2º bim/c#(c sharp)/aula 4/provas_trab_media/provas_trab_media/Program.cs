@@ -1,0 +1,16 @@
+﻿float trab1, trab2, prova1, prova2, media, list;
+string nome;
+Console.WriteLine("digite o nome do aluno: ");
+nome = Console.ReadLine();
+Console.WriteLine("digite a nota da prova 1: ");
+prova1 = float.Parse(Console.ReadLine());
+Console.WriteLine("digite a nota da prova 2: ");
+prova2 = float.Parse(Console.ReadLine());
+Console.WriteLine("digite a nota do trabalho 1: ");
+trab1 = float.Parse(Console.ReadLine());
+Console.WriteLine("digite a nota do trabalho 2: ");
+trab2  = float.Parse(Console.ReadLine());
+Console.WriteLine("digite a nota da lista de exercicios: ");
+list = float.Parse(Console.ReadLine());
+media = (prova1 + prova2 + trab1 + trab2 + list) / 5;
+Console.WriteLine("a media do aluno " + nome + " é: " +  media);

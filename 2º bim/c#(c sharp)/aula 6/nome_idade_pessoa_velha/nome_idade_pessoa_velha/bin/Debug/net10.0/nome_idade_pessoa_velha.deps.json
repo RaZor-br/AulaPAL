@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "nome_idade_pessoa_velha/1.0.0": {
+        "runtime": {
+          "nome_idade_pessoa_velha.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "nome_idade_pessoa_velha/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

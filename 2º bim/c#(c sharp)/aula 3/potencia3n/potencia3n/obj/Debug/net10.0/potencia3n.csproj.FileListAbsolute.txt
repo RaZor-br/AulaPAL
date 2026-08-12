@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\potencia3n\potencia3n\bin\Debug\net10.0\potencia3n.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\potencia3n\potencia3n\bin\Debug\net10.0\potencia3n.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\potencia3n\potencia3n\bin\Debug\net10.0\potencia3n.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\potencia3n\potencia3n\bin\Debug\net10.0\potencia3n.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\potencia3n\potencia3n\bin\Debug\net10.0\potencia3n.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\potencia3n\potencia3n\obj\Debug\net10.0\potencia3n.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\potencia3n\potencia3n\obj\Debug\net10.0\potencia3n.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\potencia3n\potencia3n\obj\Debug\net10.0\potencia3n.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\potencia3n\potencia3n\obj\Debug\net10.0\potencia3n.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\potencia3n\potencia3n\obj\Debug\net10.0\potencia3n.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\potencia3n\potencia3n\obj\Debug\net10.0\refint\potencia3n.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\potencia3n\potencia3n\obj\Debug\net10.0\potencia3n.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\potencia3n\potencia3n\obj\Debug\net10.0\potencia3n.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\potencia3n\potencia3n\obj\Debug\net10.0\ref\potencia3n.dll

@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\salario_professor\salario_professor\bin\Debug\net10.0\salario_professor.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\salario_professor\salario_professor\bin\Debug\net10.0\salario_professor.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\salario_professor\salario_professor\bin\Debug\net10.0\salario_professor.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\salario_professor\salario_professor\bin\Debug\net10.0\salario_professor.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\salario_professor\salario_professor\bin\Debug\net10.0\salario_professor.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\salario_professor\salario_professor\obj\Debug\net10.0\salario_professor.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\salario_professor\salario_professor\obj\Debug\net10.0\salario_professor.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\salario_professor\salario_professor\obj\Debug\net10.0\salario_professor.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\salario_professor\salario_professor\obj\Debug\net10.0\salario_professor.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\salario_professor\salario_professor\obj\Debug\net10.0\salario_professor.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\salario_professor\salario_professor\obj\Debug\net10.0\refint\salario_professor.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\salario_professor\salario_professor\obj\Debug\net10.0\salario_professor.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\salario_professor\salario_professor\obj\Debug\net10.0\salario_professor.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\salario_professor\salario_professor\obj\Debug\net10.0\ref\salario_professor.dll

@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\provas_trab_media\provas_trab_media\obj\Debug\net10.0\provas_trab_media.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\provas_trab_media\provas_trab_media\obj\Debug\net10.0\provas_trab_media.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\provas_trab_media\provas_trab_media\obj\Debug\net10.0\provas_trab_media.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\provas_trab_media\provas_trab_media\obj\Debug\net10.0\provas_trab_media.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\provas_trab_media\provas_trab_media\bin\Debug\net10.0\provas_trab_media.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\provas_trab_media\provas_trab_media\bin\Debug\net10.0\provas_trab_media.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\provas_trab_media\provas_trab_media\bin\Debug\net10.0\provas_trab_media.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\provas_trab_media\provas_trab_media\bin\Debug\net10.0\provas_trab_media.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\provas_trab_media\provas_trab_media\bin\Debug\net10.0\provas_trab_media.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\provas_trab_media\provas_trab_media\obj\Debug\net10.0\provas_trab_media.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\provas_trab_media\provas_trab_media\obj\Debug\net10.0\refint\provas_trab_media.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\provas_trab_media\provas_trab_media\obj\Debug\net10.0\provas_trab_media.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\provas_trab_media\provas_trab_media\obj\Debug\net10.0\provas_trab_media.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\provas_trab_media\provas_trab_media\obj\Debug\net10.0\ref\provas_trab_media.dll

@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_triangulo\area_triangulo\bin\Debug\net10.0\area_triangulo.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_triangulo\area_triangulo\bin\Debug\net10.0\area_triangulo.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_triangulo\area_triangulo\bin\Debug\net10.0\area_triangulo.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_triangulo\area_triangulo\bin\Debug\net10.0\area_triangulo.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_triangulo\area_triangulo\bin\Debug\net10.0\area_triangulo.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_triangulo\area_triangulo\obj\Debug\net10.0\area_triangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_triangulo\area_triangulo\obj\Debug\net10.0\area_triangulo.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_triangulo\area_triangulo\obj\Debug\net10.0\area_triangulo.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_triangulo\area_triangulo\obj\Debug\net10.0\area_triangulo.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_triangulo\area_triangulo\obj\Debug\net10.0\area_triangulo.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_triangulo\area_triangulo\obj\Debug\net10.0\refint\area_triangulo.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_triangulo\area_triangulo\obj\Debug\net10.0\area_triangulo.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_triangulo\area_triangulo\obj\Debug\net10.0\area_triangulo.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_triangulo\area_triangulo\obj\Debug\net10.0\ref\area_triangulo.dll

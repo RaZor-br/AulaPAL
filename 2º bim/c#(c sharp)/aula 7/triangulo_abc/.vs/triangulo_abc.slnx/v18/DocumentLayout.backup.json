@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1\u00BA ano\\programa\u00E7\u00E3o e algoritimo\\2\u00BA bim\\c#(c sharp)\\aula 7\\triangulo_abc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF3FE082-E2B1-CE8F-DD8C-A8855D5A4206}|triangulo_abc\\triangulo_abc.csproj|d:\\1\u00BA ano\\programa\u00E7\u00E3o e algoritimo\\2\u00BA bim\\c#(c sharp)\\aula 7\\triangulo_abc\\triangulo_abc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF3FE082-E2B1-CE8F-DD8C-A8855D5A4206}|triangulo_abc\\triangulo_abc.csproj|solutionrelative:triangulo_abc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\1\u00BA ano\\programa\u00E7\u00E3o e algoritimo\\2\u00BA bim\\c#(c sharp)\\aula 7\\triangulo_abc\\triangulo_abc\\Program.cs",
+              "RelativeDocumentMoniker": "triangulo_abc\\Program.cs",
+              "ToolTip": "D:\\1\u00BA ano\\programa\u00E7\u00E3o e algoritimo\\2\u00BA bim\\c#(c sharp)\\aula 7\\triangulo_abc\\triangulo_abc\\Program.cs",
+              "RelativeToolTip": "triangulo_abc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T20:03:51.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

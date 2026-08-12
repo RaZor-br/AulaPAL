@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1\u00BA ano\\programa\u00E7\u00E3o e algoritimo\\2\u00BA bim\\c#(c sharp)\\aula 4\\produto_desconto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F281F505-B7BE-46AC-AED6-ED279BD51817}|produto_desconto\\produto_desconto.csproj|d:\\1\u00BA ano\\programa\u00E7\u00E3o e algoritimo\\2\u00BA bim\\c#(c sharp)\\aula 4\\produto_desconto\\produto_desconto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F281F505-B7BE-46AC-AED6-ED279BD51817}|produto_desconto\\produto_desconto.csproj|solutionrelative:produto_desconto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\1\u00BA ano\\programa\u00E7\u00E3o e algoritimo\\2\u00BA bim\\c#(c sharp)\\aula 4\\produto_desconto\\produto_desconto\\Program.cs",
+              "RelativeDocumentMoniker": "produto_desconto\\Program.cs",
+              "ToolTip": "D:\\1\u00BA ano\\programa\u00E7\u00E3o e algoritimo\\2\u00BA bim\\c#(c sharp)\\aula 4\\produto_desconto\\produto_desconto\\Program.cs",
+              "RelativeToolTip": "produto_desconto\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T20:13:43.25Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

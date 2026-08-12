@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1\u00BA ano\\programa\u00E7\u00E3o e algoritimo\\2\u00BA bim\\c#(c sharp)\\aula 11\\impar_par\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CEEA70-9829-44E6-8281-446DC5EC6377}|impar_par\\impar_par.csproj|d:\\1\u00BA ano\\programa\u00E7\u00E3o e algoritimo\\2\u00BA bim\\c#(c sharp)\\aula 11\\impar_par\\impar_par\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CEEA70-9829-44E6-8281-446DC5EC6377}|impar_par\\impar_par.csproj|solutionrelative:impar_par\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\1\u00BA ano\\programa\u00E7\u00E3o e algoritimo\\2\u00BA bim\\c#(c sharp)\\aula 11\\impar_par\\impar_par\\Program.cs",
+              "RelativeDocumentMoniker": "impar_par\\Program.cs",
+              "ToolTip": "D:\\1\u00BA ano\\programa\u00E7\u00E3o e algoritimo\\2\u00BA bim\\c#(c sharp)\\aula 11\\impar_par\\impar_par\\Program.cs",
+              "RelativeToolTip": "impar_par\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T16:26:11.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_cubo\area_cubo\bin\Debug\net10.0\area_cubo.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_cubo\area_cubo\bin\Debug\net10.0\area_cubo.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_cubo\area_cubo\bin\Debug\net10.0\area_cubo.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_cubo\area_cubo\bin\Debug\net10.0\area_cubo.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_cubo\area_cubo\bin\Debug\net10.0\area_cubo.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_cubo\area_cubo\obj\Debug\net10.0\area_cubo.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_cubo\area_cubo\obj\Debug\net10.0\area_cubo.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_cubo\area_cubo\obj\Debug\net10.0\area_cubo.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_cubo\area_cubo\obj\Debug\net10.0\area_cubo.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_cubo\area_cubo\obj\Debug\net10.0\area_cubo.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_cubo\area_cubo\obj\Debug\net10.0\refint\area_cubo.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_cubo\area_cubo\obj\Debug\net10.0\area_cubo.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_cubo\area_cubo\obj\Debug\net10.0\area_cubo.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_cubo\area_cubo\obj\Debug\net10.0\ref\area_cubo.dll

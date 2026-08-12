@@ -1,0 +1,35 @@
+﻿string nm1, nm2, nm3;
+float q1, q2, q3, val1, val2, val3, valtotal, valf1, valf2, valf3;
+Console.ForegroundColor = ConsoleColor.Yellow;
+Console.WriteLine("digite o nome do primeiro produto: ");
+nm1 = (string)Console.ReadLine();
+Console.WriteLine("digite o valor do primeiro produto: ");
+val1 = float.Parse(Console.ReadLine());
+Console.WriteLine("digite a quantidade do primeiro produto");
+q1 = float.Parse(Console.ReadLine());
+Console.ForegroundColor = ConsoleColor.Blue;
+Console.WriteLine("digite o nome do segundo produto: ");
+nm2 = (string)Console.ReadLine();
+Console.WriteLine("digite o valor do segundo produto: ");
+val2 = float.Parse(Console.ReadLine());
+Console.WriteLine("digite a quantidade do segundo produto");
+q2 = float.Parse(Console.ReadLine());
+Console.ForegroundColor = ConsoleColor.Green;
+Console.WriteLine("digite o nome do terceiro produto: ");
+nm3 = (string)Console.ReadLine();
+Console.WriteLine("digite o valor do terceiro produto: ");
+val3 = float.Parse(Console.ReadLine());
+Console.WriteLine("digite a quantidade do terceiro produto");
+q3 = float.Parse(Console.ReadLine());
+
+valf1 = val1 * q1;
+valf2 = val2 * q2;
+valf3 = val3 * q3;
+
+valtotal = valf1 + valf2 + valf3;
+Console.ForegroundColor = ConsoleColor.Green;
+Console.WriteLine("os produtos adqueridos foram: ");
+Console.WriteLine(nm1 + ": " + valf1 + "$");
+Console.WriteLine(nm2 + ": " + valf2 + "$");
+Console.WriteLine(nm3 + ": " + valf3 + "$");
+Console.WriteLine("o valor total é: " + valtotal);

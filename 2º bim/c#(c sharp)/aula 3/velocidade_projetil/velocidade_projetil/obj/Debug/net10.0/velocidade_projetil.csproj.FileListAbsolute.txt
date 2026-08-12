@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\velocidade_projetil\velocidade_projetil\bin\Debug\net10.0\velocidade_projetil.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\velocidade_projetil\velocidade_projetil\bin\Debug\net10.0\velocidade_projetil.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\velocidade_projetil\velocidade_projetil\bin\Debug\net10.0\velocidade_projetil.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\velocidade_projetil\velocidade_projetil\bin\Debug\net10.0\velocidade_projetil.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\velocidade_projetil\velocidade_projetil\bin\Debug\net10.0\velocidade_projetil.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\velocidade_projetil\velocidade_projetil\obj\Debug\net10.0\velocidade_projetil.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\velocidade_projetil\velocidade_projetil\obj\Debug\net10.0\velocidade_projetil.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\velocidade_projetil\velocidade_projetil\obj\Debug\net10.0\velocidade_projetil.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\velocidade_projetil\velocidade_projetil\obj\Debug\net10.0\velocidade_projetil.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\velocidade_projetil\velocidade_projetil\obj\Debug\net10.0\velocidade_projetil.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\velocidade_projetil\velocidade_projetil\obj\Debug\net10.0\refint\velocidade_projetil.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\velocidade_projetil\velocidade_projetil\obj\Debug\net10.0\velocidade_projetil.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\velocidade_projetil\velocidade_projetil\obj\Debug\net10.0\velocidade_projetil.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\velocidade_projetil\velocidade_projetil\obj\Debug\net10.0\ref\velocidade_projetil.dll

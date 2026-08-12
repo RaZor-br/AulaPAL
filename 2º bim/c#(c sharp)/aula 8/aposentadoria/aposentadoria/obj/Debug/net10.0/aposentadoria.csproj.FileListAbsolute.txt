@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\aposentadoria\aposentadoria\bin\Debug\net10.0\aposentadoria.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\aposentadoria\aposentadoria\bin\Debug\net10.0\aposentadoria.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\aposentadoria\aposentadoria\bin\Debug\net10.0\aposentadoria.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\aposentadoria\aposentadoria\bin\Debug\net10.0\aposentadoria.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\aposentadoria\aposentadoria\bin\Debug\net10.0\aposentadoria.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\aposentadoria\aposentadoria\obj\Debug\net10.0\aposentadoria.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\aposentadoria\aposentadoria\obj\Debug\net10.0\aposentadoria.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\aposentadoria\aposentadoria\obj\Debug\net10.0\aposentadoria.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\aposentadoria\aposentadoria\obj\Debug\net10.0\aposentadoria.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\aposentadoria\aposentadoria\obj\Debug\net10.0\aposentadoria.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\aposentadoria\aposentadoria\obj\Debug\net10.0\refint\aposentadoria.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\aposentadoria\aposentadoria\obj\Debug\net10.0\aposentadoria.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\aposentadoria\aposentadoria\obj\Debug\net10.0\aposentadoria.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\aposentadoria\aposentadoria\obj\Debug\net10.0\ref\aposentadoria.dll

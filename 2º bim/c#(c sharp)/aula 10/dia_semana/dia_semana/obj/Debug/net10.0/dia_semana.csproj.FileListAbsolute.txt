@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\dia_semana\dia_semana\bin\Debug\net10.0\dia_semana.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\dia_semana\dia_semana\bin\Debug\net10.0\dia_semana.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\dia_semana\dia_semana\bin\Debug\net10.0\dia_semana.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\dia_semana\dia_semana\bin\Debug\net10.0\dia_semana.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\dia_semana\dia_semana\bin\Debug\net10.0\dia_semana.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\dia_semana\dia_semana\obj\Debug\net10.0\dia_semana.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\dia_semana\dia_semana\obj\Debug\net10.0\dia_semana.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\dia_semana\dia_semana\obj\Debug\net10.0\dia_semana.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\dia_semana\dia_semana\obj\Debug\net10.0\dia_semana.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\dia_semana\dia_semana\obj\Debug\net10.0\dia_semana.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\dia_semana\dia_semana\obj\Debug\net10.0\refint\dia_semana.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\dia_semana\dia_semana\obj\Debug\net10.0\dia_semana.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\dia_semana\dia_semana\obj\Debug\net10.0\dia_semana.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 10\dia_semana\dia_semana\obj\Debug\net10.0\ref\dia_semana.dll

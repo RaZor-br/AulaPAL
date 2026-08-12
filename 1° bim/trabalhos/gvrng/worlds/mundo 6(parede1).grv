@@ -1,0 +1,6 @@
+robot 10 1 w 30
+wall 3 2 n 6
+wall 2 3 e 4
+wall 3 6 n 6
+wall 8 3 e 2
+wall 8 6 e 

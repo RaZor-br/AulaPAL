@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\hipotenusa\hipotenusa\bin\Debug\net10.0\hipotenusa.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\hipotenusa\hipotenusa\bin\Debug\net10.0\hipotenusa.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\hipotenusa\hipotenusa\bin\Debug\net10.0\hipotenusa.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\hipotenusa\hipotenusa\bin\Debug\net10.0\hipotenusa.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\hipotenusa\hipotenusa\bin\Debug\net10.0\hipotenusa.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\hipotenusa\hipotenusa\obj\Debug\net10.0\hipotenusa.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\hipotenusa\hipotenusa\obj\Debug\net10.0\hipotenusa.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\hipotenusa\hipotenusa\obj\Debug\net10.0\hipotenusa.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\hipotenusa\hipotenusa\obj\Debug\net10.0\hipotenusa.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\hipotenusa\hipotenusa\obj\Debug\net10.0\hipotenusa.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\hipotenusa\hipotenusa\obj\Debug\net10.0\refint\hipotenusa.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\hipotenusa\hipotenusa\obj\Debug\net10.0\hipotenusa.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\hipotenusa\hipotenusa\obj\Debug\net10.0\hipotenusa.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\hipotenusa\hipotenusa\obj\Debug\net10.0\ref\hipotenusa.dll

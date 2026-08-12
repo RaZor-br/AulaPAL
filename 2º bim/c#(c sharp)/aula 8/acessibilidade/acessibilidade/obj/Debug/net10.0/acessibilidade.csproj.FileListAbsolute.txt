@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\acessibilidade\acessibilidade\bin\Debug\net10.0\acessibilidade.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\acessibilidade\acessibilidade\bin\Debug\net10.0\acessibilidade.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\acessibilidade\acessibilidade\bin\Debug\net10.0\acessibilidade.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\acessibilidade\acessibilidade\bin\Debug\net10.0\acessibilidade.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\acessibilidade\acessibilidade\bin\Debug\net10.0\acessibilidade.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\acessibilidade\acessibilidade\obj\Debug\net10.0\acessibilidade.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\acessibilidade\acessibilidade\obj\Debug\net10.0\acessibilidade.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\acessibilidade\acessibilidade\obj\Debug\net10.0\acessibilidade.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\acessibilidade\acessibilidade\obj\Debug\net10.0\acessibilidade.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\acessibilidade\acessibilidade\obj\Debug\net10.0\acessibilidade.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\acessibilidade\acessibilidade\obj\Debug\net10.0\refint\acessibilidade.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\acessibilidade\acessibilidade\obj\Debug\net10.0\acessibilidade.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\acessibilidade\acessibilidade\obj\Debug\net10.0\acessibilidade.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\acessibilidade\acessibilidade\obj\Debug\net10.0\ref\acessibilidade.dll

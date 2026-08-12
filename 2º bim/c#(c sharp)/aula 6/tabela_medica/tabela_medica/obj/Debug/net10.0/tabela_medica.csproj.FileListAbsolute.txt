@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\tabela_medica\tabela_medica\obj\Debug\net10.0\tabela_medica.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\tabela_medica\tabela_medica\obj\Debug\net10.0\tabela_medica.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\tabela_medica\tabela_medica\obj\Debug\net10.0\tabela_medica.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\tabela_medica\tabela_medica\obj\Debug\net10.0\tabela_medica.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\tabela_medica\tabela_medica\bin\Debug\net10.0\tabela_medica.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\tabela_medica\tabela_medica\bin\Debug\net10.0\tabela_medica.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\tabela_medica\tabela_medica\bin\Debug\net10.0\tabela_medica.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\tabela_medica\tabela_medica\bin\Debug\net10.0\tabela_medica.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\tabela_medica\tabela_medica\bin\Debug\net10.0\tabela_medica.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\tabela_medica\tabela_medica\obj\Debug\net10.0\tabela_medica.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\tabela_medica\tabela_medica\obj\Debug\net10.0\refint\tabela_medica.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\tabela_medica\tabela_medica\obj\Debug\net10.0\tabela_medica.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\tabela_medica\tabela_medica\obj\Debug\net10.0\tabela_medica.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\tabela_medica\tabela_medica\obj\Debug\net10.0\ref\tabela_medica.dll

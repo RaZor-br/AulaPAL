@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\mercado_comprar\mercado_comprar\bin\Debug\net10.0\mercado_comprar.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\mercado_comprar\mercado_comprar\bin\Debug\net10.0\mercado_comprar.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\mercado_comprar\mercado_comprar\bin\Debug\net10.0\mercado_comprar.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\mercado_comprar\mercado_comprar\bin\Debug\net10.0\mercado_comprar.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\mercado_comprar\mercado_comprar\bin\Debug\net10.0\mercado_comprar.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\mercado_comprar\mercado_comprar\obj\Debug\net10.0\mercado_comprar.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\mercado_comprar\mercado_comprar\obj\Debug\net10.0\mercado_comprar.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\mercado_comprar\mercado_comprar\obj\Debug\net10.0\mercado_comprar.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\mercado_comprar\mercado_comprar\obj\Debug\net10.0\mercado_comprar.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\mercado_comprar\mercado_comprar\obj\Debug\net10.0\mercado_comprar.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\mercado_comprar\mercado_comprar\obj\Debug\net10.0\refint\mercado_comprar.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\mercado_comprar\mercado_comprar\obj\Debug\net10.0\mercado_comprar.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\mercado_comprar\mercado_comprar\obj\Debug\net10.0\mercado_comprar.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\mercado_comprar\mercado_comprar\obj\Debug\net10.0\ref\mercado_comprar.dll

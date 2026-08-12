@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\projeto soma\projeto soma\obj\Debug\net10.0\projeto soma.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\projeto soma\projeto soma\obj\Debug\net10.0\projeto soma.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\projeto soma\projeto soma\obj\Debug\net10.0\projeto soma.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\projeto soma\projeto soma\obj\Debug\net10.0\projeto soma.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\projeto soma\projeto soma\bin\Debug\net10.0\projeto soma.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\projeto soma\projeto soma\bin\Debug\net10.0\projeto soma.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\projeto soma\projeto soma\bin\Debug\net10.0\projeto soma.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\projeto soma\projeto soma\bin\Debug\net10.0\projeto soma.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\projeto soma\projeto soma\bin\Debug\net10.0\projeto soma.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\projeto soma\projeto soma\obj\Debug\net10.0\projeto soma.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\projeto soma\projeto soma\obj\Debug\net10.0\refint\projeto soma.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\projeto soma\projeto soma\obj\Debug\net10.0\projeto soma.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\projeto soma\projeto soma\obj\Debug\net10.0\projeto soma.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\projeto soma\projeto soma\obj\Debug\net10.0\ref\projeto soma.dll

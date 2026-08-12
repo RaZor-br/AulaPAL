@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\projeto triplo\projeto triplo\bin\Debug\net10.0\projeto triplo.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\projeto triplo\projeto triplo\bin\Debug\net10.0\projeto triplo.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\projeto triplo\projeto triplo\bin\Debug\net10.0\projeto triplo.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\projeto triplo\projeto triplo\bin\Debug\net10.0\projeto triplo.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\projeto triplo\projeto triplo\bin\Debug\net10.0\projeto triplo.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\projeto triplo\projeto triplo\obj\Debug\net10.0\projeto triplo.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\projeto triplo\projeto triplo\obj\Debug\net10.0\projeto triplo.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\projeto triplo\projeto triplo\obj\Debug\net10.0\projeto triplo.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\projeto triplo\projeto triplo\obj\Debug\net10.0\projeto triplo.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\projeto triplo\projeto triplo\obj\Debug\net10.0\projeto triplo.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\projeto triplo\projeto triplo\obj\Debug\net10.0\refint\projeto triplo.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\projeto triplo\projeto triplo\obj\Debug\net10.0\projeto triplo.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\projeto triplo\projeto triplo\obj\Debug\net10.0\projeto triplo.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\projeto triplo\projeto triplo\obj\Debug\net10.0\ref\projeto triplo.dll

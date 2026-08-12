@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\votos_swithcase\votos_swithcase\bin\Debug\net10.0\votos_swithcase.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\votos_swithcase\votos_swithcase\bin\Debug\net10.0\votos_swithcase.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\votos_swithcase\votos_swithcase\bin\Debug\net10.0\votos_swithcase.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\votos_swithcase\votos_swithcase\bin\Debug\net10.0\votos_swithcase.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\votos_swithcase\votos_swithcase\bin\Debug\net10.0\votos_swithcase.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\votos_swithcase\votos_swithcase\obj\Debug\net10.0\votos_swithcase.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\votos_swithcase\votos_swithcase\obj\Debug\net10.0\votos_swithcase.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\votos_swithcase\votos_swithcase\obj\Debug\net10.0\votos_swithcase.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\votos_swithcase\votos_swithcase\obj\Debug\net10.0\votos_swithcase.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\votos_swithcase\votos_swithcase\obj\Debug\net10.0\votos_swithcase.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\votos_swithcase\votos_swithcase\obj\Debug\net10.0\refint\votos_swithcase.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\votos_swithcase\votos_swithcase\obj\Debug\net10.0\votos_swithcase.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\votos_swithcase\votos_swithcase\obj\Debug\net10.0\votos_swithcase.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\votos_swithcase\votos_swithcase\obj\Debug\net10.0\ref\votos_swithcase.dll

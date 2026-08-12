@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\vendedor_bonus\vendedor_bonus\bin\Debug\net10.0\vendedor_bonus.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\vendedor_bonus\vendedor_bonus\bin\Debug\net10.0\vendedor_bonus.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\vendedor_bonus\vendedor_bonus\bin\Debug\net10.0\vendedor_bonus.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\vendedor_bonus\vendedor_bonus\bin\Debug\net10.0\vendedor_bonus.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\vendedor_bonus\vendedor_bonus\bin\Debug\net10.0\vendedor_bonus.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\vendedor_bonus\vendedor_bonus\obj\Debug\net10.0\vendedor_bonus.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\vendedor_bonus\vendedor_bonus\obj\Debug\net10.0\vendedor_bonus.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\vendedor_bonus\vendedor_bonus\obj\Debug\net10.0\vendedor_bonus.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\vendedor_bonus\vendedor_bonus\obj\Debug\net10.0\vendedor_bonus.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\vendedor_bonus\vendedor_bonus\obj\Debug\net10.0\vendedor_bonus.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\vendedor_bonus\vendedor_bonus\obj\Debug\net10.0\refint\vendedor_bonus.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\vendedor_bonus\vendedor_bonus\obj\Debug\net10.0\vendedor_bonus.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\vendedor_bonus\vendedor_bonus\obj\Debug\net10.0\vendedor_bonus.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\vendedor_bonus\vendedor_bonus\obj\Debug\net10.0\ref\vendedor_bonus.dll

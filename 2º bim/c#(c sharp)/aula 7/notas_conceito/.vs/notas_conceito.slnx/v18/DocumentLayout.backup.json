@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1\u00BA ano\\programa\u00E7\u00E3o e algoritimo\\2\u00BA bim\\c#(c sharp)\\aula 7\\notas_conceito\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FEFE7F8-5E5C-E4DB-3BF8-089951DEA79A}|notas_conceito\\notas_conceito.csproj|d:\\1\u00BA ano\\programa\u00E7\u00E3o e algoritimo\\2\u00BA bim\\c#(c sharp)\\aula 7\\notas_conceito\\notas_conceito\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEFE7F8-5E5C-E4DB-3BF8-089951DEA79A}|notas_conceito\\notas_conceito.csproj|solutionrelative:notas_conceito\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\1\u00BA ano\\programa\u00E7\u00E3o e algoritimo\\2\u00BA bim\\c#(c sharp)\\aula 7\\notas_conceito\\notas_conceito\\Program.cs",
+              "RelativeDocumentMoniker": "notas_conceito\\Program.cs",
+              "ToolTip": "D:\\1\u00BA ano\\programa\u00E7\u00E3o e algoritimo\\2\u00BA bim\\c#(c sharp)\\aula 7\\notas_conceito\\notas_conceito\\Program.cs",
+              "RelativeToolTip": "notas_conceito\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAFAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T16:24:29.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

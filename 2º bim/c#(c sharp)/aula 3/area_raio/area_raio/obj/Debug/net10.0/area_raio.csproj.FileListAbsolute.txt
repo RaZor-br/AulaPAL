@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_raio\area_raio\bin\Debug\net10.0\area_raio.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_raio\area_raio\bin\Debug\net10.0\area_raio.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_raio\area_raio\bin\Debug\net10.0\area_raio.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_raio\area_raio\bin\Debug\net10.0\area_raio.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_raio\area_raio\bin\Debug\net10.0\area_raio.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_raio\area_raio\obj\Debug\net10.0\area_raio.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_raio\area_raio\obj\Debug\net10.0\area_raio.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_raio\area_raio\obj\Debug\net10.0\area_raio.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_raio\area_raio\obj\Debug\net10.0\area_raio.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_raio\area_raio\obj\Debug\net10.0\area_raio.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_raio\area_raio\obj\Debug\net10.0\refint\area_raio.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_raio\area_raio\obj\Debug\net10.0\area_raio.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_raio\area_raio\obj\Debug\net10.0\area_raio.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\area_raio\area_raio\obj\Debug\net10.0\ref\area_raio.dll

@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\cnh_menor\cnh_menor\bin\Debug\net10.0\cnh_menor.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\cnh_menor\cnh_menor\bin\Debug\net10.0\cnh_menor.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\cnh_menor\cnh_menor\bin\Debug\net10.0\cnh_menor.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\cnh_menor\cnh_menor\bin\Debug\net10.0\cnh_menor.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\cnh_menor\cnh_menor\bin\Debug\net10.0\cnh_menor.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\cnh_menor\cnh_menor\obj\Debug\net10.0\cnh_menor.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\cnh_menor\cnh_menor\obj\Debug\net10.0\cnh_menor.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\cnh_menor\cnh_menor\obj\Debug\net10.0\cnh_menor.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\cnh_menor\cnh_menor\obj\Debug\net10.0\cnh_menor.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\cnh_menor\cnh_menor\obj\Debug\net10.0\cnh_menor.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\cnh_menor\cnh_menor\obj\Debug\net10.0\refint\cnh_menor.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\cnh_menor\cnh_menor\obj\Debug\net10.0\cnh_menor.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\cnh_menor\cnh_menor\obj\Debug\net10.0\cnh_menor.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 8\cnh_menor\cnh_menor\obj\Debug\net10.0\ref\cnh_menor.dll

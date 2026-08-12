@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\soma2numeros\soma2numeros\bin\Debug\net10.0\soma2numeros.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\soma2numeros\soma2numeros\bin\Debug\net10.0\soma2numeros.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\soma2numeros\soma2numeros\bin\Debug\net10.0\soma2numeros.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\soma2numeros\soma2numeros\bin\Debug\net10.0\soma2numeros.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\soma2numeros\soma2numeros\bin\Debug\net10.0\soma2numeros.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\soma2numeros\soma2numeros\obj\Debug\net10.0\soma2numeros.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\soma2numeros\soma2numeros\obj\Debug\net10.0\soma2numeros.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\soma2numeros\soma2numeros\obj\Debug\net10.0\soma2numeros.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\soma2numeros\soma2numeros\obj\Debug\net10.0\soma2numeros.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\soma2numeros\soma2numeros\obj\Debug\net10.0\soma2numeros.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\soma2numeros\soma2numeros\obj\Debug\net10.0\refint\soma2numeros.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\soma2numeros\soma2numeros\obj\Debug\net10.0\soma2numeros.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\soma2numeros\soma2numeros\obj\Debug\net10.0\soma2numeros.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\soma2numeros\soma2numeros\obj\Debug\net10.0\ref\soma2numeros.dll

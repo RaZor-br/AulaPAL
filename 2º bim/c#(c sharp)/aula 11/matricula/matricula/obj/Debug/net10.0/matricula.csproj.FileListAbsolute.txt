@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\matricula\matricula\obj\Debug\net10.0\matricula.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\matricula\matricula\obj\Debug\net10.0\matricula.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\matricula\matricula\obj\Debug\net10.0\matricula.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\matricula\matricula\obj\Debug\net10.0\matricula.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\matricula\matricula\bin\Debug\net10.0\matricula.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\matricula\matricula\bin\Debug\net10.0\matricula.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\matricula\matricula\bin\Debug\net10.0\matricula.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\matricula\matricula\bin\Debug\net10.0\matricula.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\matricula\matricula\bin\Debug\net10.0\matricula.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\matricula\matricula\obj\Debug\net10.0\matricula.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\matricula\matricula\obj\Debug\net10.0\refint\matricula.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\matricula\matricula\obj\Debug\net10.0\matricula.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\matricula\matricula\obj\Debug\net10.0\matricula.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\matricula\matricula\obj\Debug\net10.0\ref\matricula.dll

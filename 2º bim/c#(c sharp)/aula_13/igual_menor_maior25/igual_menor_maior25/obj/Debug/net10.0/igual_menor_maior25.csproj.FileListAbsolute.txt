@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\igual_menor_maior25\igual_menor_maior25\bin\Debug\net10.0\igual_menor_maior25.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\igual_menor_maior25\igual_menor_maior25\bin\Debug\net10.0\igual_menor_maior25.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\igual_menor_maior25\igual_menor_maior25\bin\Debug\net10.0\igual_menor_maior25.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\igual_menor_maior25\igual_menor_maior25\bin\Debug\net10.0\igual_menor_maior25.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\igual_menor_maior25\igual_menor_maior25\bin\Debug\net10.0\igual_menor_maior25.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\igual_menor_maior25\igual_menor_maior25\obj\Debug\net10.0\igual_menor_maior25.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\igual_menor_maior25\igual_menor_maior25\obj\Debug\net10.0\igual_menor_maior25.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\igual_menor_maior25\igual_menor_maior25\obj\Debug\net10.0\igual_menor_maior25.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\igual_menor_maior25\igual_menor_maior25\obj\Debug\net10.0\igual_menor_maior25.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\igual_menor_maior25\igual_menor_maior25\obj\Debug\net10.0\igual_menor_maior25.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\igual_menor_maior25\igual_menor_maior25\obj\Debug\net10.0\refint\igual_menor_maior25.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\igual_menor_maior25\igual_menor_maior25\obj\Debug\net10.0\igual_menor_maior25.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\igual_menor_maior25\igual_menor_maior25\obj\Debug\net10.0\igual_menor_maior25.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\igual_menor_maior25\igual_menor_maior25\obj\Debug\net10.0\ref\igual_menor_maior25.dll

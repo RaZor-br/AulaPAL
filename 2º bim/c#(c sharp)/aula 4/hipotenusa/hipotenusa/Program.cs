@@ -1,0 +1,13 @@
+﻿float cateop, cateadj, hipot, seno, cosseno, tang;
+Console.WriteLine("digite o valor da hipotenusa: ");
+hipot = float.Parse(Console.ReadLine());
+Console.WriteLine("digite o valor do cateto oposto: ");
+cateop = float.Parse(Console.ReadLine());
+Console.WriteLine("digite o valor do cateto adjacente: ");
+cateadj = float.Parse(Console.ReadLine());
+seno = cateop / hipot;
+cosseno = cateadj / hipot;
+tang = cateop / cateadj;
+Console.WriteLine("o seno é: " + seno);
+Console.WriteLine("o cosseno é: " + cosseno);
+Console.WriteLine("a tangente é: " + tang);

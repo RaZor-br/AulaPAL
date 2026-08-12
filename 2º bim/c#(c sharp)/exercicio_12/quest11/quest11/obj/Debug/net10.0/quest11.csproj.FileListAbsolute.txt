@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\exercicio_12\quest11\quest11\bin\Debug\net10.0\quest11.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\exercicio_12\quest11\quest11\bin\Debug\net10.0\quest11.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\exercicio_12\quest11\quest11\bin\Debug\net10.0\quest11.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\exercicio_12\quest11\quest11\bin\Debug\net10.0\quest11.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\exercicio_12\quest11\quest11\bin\Debug\net10.0\quest11.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\exercicio_12\quest11\quest11\obj\Debug\net10.0\quest11.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\exercicio_12\quest11\quest11\obj\Debug\net10.0\quest11.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\exercicio_12\quest11\quest11\obj\Debug\net10.0\quest11.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\exercicio_12\quest11\quest11\obj\Debug\net10.0\quest11.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\exercicio_12\quest11\quest11\obj\Debug\net10.0\quest11.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\exercicio_12\quest11\quest11\obj\Debug\net10.0\refint\quest11.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\exercicio_12\quest11\quest11\obj\Debug\net10.0\quest11.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\exercicio_12\quest11\quest11\obj\Debug\net10.0\quest11.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\exercicio_12\quest11\quest11\obj\Debug\net10.0\ref\quest11.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "mult_resul_10/1.0.0": {
+        "runtime": {
+          "mult_resul_10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mult_resul_10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

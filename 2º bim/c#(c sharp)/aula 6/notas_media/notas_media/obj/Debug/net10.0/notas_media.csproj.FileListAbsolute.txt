@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\notas_media\notas_media\bin\Debug\net10.0\notas_media.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\notas_media\notas_media\bin\Debug\net10.0\notas_media.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\notas_media\notas_media\bin\Debug\net10.0\notas_media.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\notas_media\notas_media\bin\Debug\net10.0\notas_media.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\notas_media\notas_media\bin\Debug\net10.0\notas_media.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\notas_media\notas_media\obj\Debug\net10.0\notas_media.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\notas_media\notas_media\obj\Debug\net10.0\notas_media.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\notas_media\notas_media\obj\Debug\net10.0\notas_media.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\notas_media\notas_media\obj\Debug\net10.0\notas_media.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\notas_media\notas_media\obj\Debug\net10.0\notas_media.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\notas_media\notas_media\obj\Debug\net10.0\refint\notas_media.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\notas_media\notas_media\obj\Debug\net10.0\notas_media.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\notas_media\notas_media\obj\Debug\net10.0\notas_media.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\notas_media\notas_media\obj\Debug\net10.0\ref\notas_media.dll

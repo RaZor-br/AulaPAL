@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\quatro_operacoes\quatro_operacoes\bin\Debug\net10.0\quatro_operacoes.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\quatro_operacoes\quatro_operacoes\bin\Debug\net10.0\quatro_operacoes.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\quatro_operacoes\quatro_operacoes\bin\Debug\net10.0\quatro_operacoes.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\quatro_operacoes\quatro_operacoes\bin\Debug\net10.0\quatro_operacoes.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\quatro_operacoes\quatro_operacoes\bin\Debug\net10.0\quatro_operacoes.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\quatro_operacoes\quatro_operacoes\obj\Debug\net10.0\quatro_operacoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\quatro_operacoes\quatro_operacoes\obj\Debug\net10.0\quatro_operacoes.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\quatro_operacoes\quatro_operacoes\obj\Debug\net10.0\quatro_operacoes.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\quatro_operacoes\quatro_operacoes\obj\Debug\net10.0\quatro_operacoes.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\quatro_operacoes\quatro_operacoes\obj\Debug\net10.0\quatro_operacoes.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\quatro_operacoes\quatro_operacoes\obj\Debug\net10.0\refint\quatro_operacoes.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\quatro_operacoes\quatro_operacoes\obj\Debug\net10.0\quatro_operacoes.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\quatro_operacoes\quatro_operacoes\obj\Debug\net10.0\quatro_operacoes.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 3\quatro_operacoes\quatro_operacoes\obj\Debug\net10.0\ref\quatro_operacoes.dll

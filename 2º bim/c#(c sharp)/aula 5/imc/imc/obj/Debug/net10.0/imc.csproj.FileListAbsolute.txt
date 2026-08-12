@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\imc\imc\bin\Debug\net10.0\imc.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\imc\imc\bin\Debug\net10.0\imc.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\imc\imc\bin\Debug\net10.0\imc.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\imc\imc\bin\Debug\net10.0\imc.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\imc\imc\bin\Debug\net10.0\imc.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\imc\imc\obj\Debug\net10.0\imc.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\imc\imc\obj\Debug\net10.0\imc.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\imc\imc\obj\Debug\net10.0\imc.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\imc\imc\obj\Debug\net10.0\imc.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\imc\imc\obj\Debug\net10.0\imc.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\imc\imc\obj\Debug\net10.0\refint\imc.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\imc\imc\obj\Debug\net10.0\imc.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\imc\imc\obj\Debug\net10.0\imc.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 5\imc\imc\obj\Debug\net10.0\ref\imc.dll

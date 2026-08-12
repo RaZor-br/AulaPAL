@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\calc_divi\calc_divi\bin\Debug\net10.0\calc_divi.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\calc_divi\calc_divi\bin\Debug\net10.0\calc_divi.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\calc_divi\calc_divi\bin\Debug\net10.0\calc_divi.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\calc_divi\calc_divi\bin\Debug\net10.0\calc_divi.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\calc_divi\calc_divi\bin\Debug\net10.0\calc_divi.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\calc_divi\calc_divi\obj\Debug\net10.0\calc_divi.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\calc_divi\calc_divi\obj\Debug\net10.0\calc_divi.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\calc_divi\calc_divi\obj\Debug\net10.0\calc_divi.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\calc_divi\calc_divi\obj\Debug\net10.0\calc_divi.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\calc_divi\calc_divi\obj\Debug\net10.0\calc_divi.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\calc_divi\calc_divi\obj\Debug\net10.0\refint\calc_divi.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\calc_divi\calc_divi\obj\Debug\net10.0\calc_divi.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\calc_divi\calc_divi\obj\Debug\net10.0\calc_divi.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\calc_divi\calc_divi\obj\Debug\net10.0\ref\calc_divi.dll

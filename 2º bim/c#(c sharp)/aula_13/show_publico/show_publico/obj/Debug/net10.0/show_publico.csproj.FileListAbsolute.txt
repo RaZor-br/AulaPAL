@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\show_publico\show_publico\bin\Debug\net10.0\show_publico.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\show_publico\show_publico\bin\Debug\net10.0\show_publico.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\show_publico\show_publico\bin\Debug\net10.0\show_publico.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\show_publico\show_publico\bin\Debug\net10.0\show_publico.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\show_publico\show_publico\bin\Debug\net10.0\show_publico.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\show_publico\show_publico\obj\Debug\net10.0\show_publico.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\show_publico\show_publico\obj\Debug\net10.0\show_publico.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\show_publico\show_publico\obj\Debug\net10.0\show_publico.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\show_publico\show_publico\obj\Debug\net10.0\show_publico.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\show_publico\show_publico\obj\Debug\net10.0\show_publico.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\show_publico\show_publico\obj\Debug\net10.0\refint\show_publico.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\show_publico\show_publico\obj\Debug\net10.0\show_publico.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\show_publico\show_publico\obj\Debug\net10.0\show_publico.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\show_publico\show_publico\obj\Debug\net10.0\ref\show_publico.dll

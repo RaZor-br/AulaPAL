@@ -1,0 +1,67 @@
+define turnback:
+ turnleft
+ turnleft
+define turnright:
+ turnleft
+ turnleft
+ turnleft
+define moveback:
+ turnback
+ move
+ turnback
+define putbeepermove:
+ putbeeper
+ move
+turnright
+move
+move
+move
+move
+turnleft
+move
+move
+move
+move
+move
+turnright
+moveback
+move
+move
+turnright
+move
+move
+move
+turnback
+putbeepermove
+putbeepermove
+putbeepermove
+putbeepermove
+putbeepermove
+putbeeper
+turnleft
+move
+turnleft
+putbeepermove
+putbeepermove
+putbeepermove
+putbeepermove
+putbeepermove
+putbeeper
+turnright
+move
+turnright
+putbeepermove
+putbeepermove
+putbeepermove
+putbeepermove
+putbeepermove
+putbeeper
+turnleft
+move
+turnleft
+putbeepermove
+putbeepermove
+putbeepermove
+putbeepermove
+putbeepermove
+putbeeper

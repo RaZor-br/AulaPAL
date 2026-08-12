@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\met_pos_neg_quad\met_pos_neg_quad\bin\Debug\net10.0\met_pos_neg_quad.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\met_pos_neg_quad\met_pos_neg_quad\bin\Debug\net10.0\met_pos_neg_quad.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\met_pos_neg_quad\met_pos_neg_quad\bin\Debug\net10.0\met_pos_neg_quad.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\met_pos_neg_quad\met_pos_neg_quad\bin\Debug\net10.0\met_pos_neg_quad.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\met_pos_neg_quad\met_pos_neg_quad\bin\Debug\net10.0\met_pos_neg_quad.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\met_pos_neg_quad\met_pos_neg_quad\obj\Debug\net10.0\met_pos_neg_quad.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\met_pos_neg_quad\met_pos_neg_quad\obj\Debug\net10.0\met_pos_neg_quad.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\met_pos_neg_quad\met_pos_neg_quad\obj\Debug\net10.0\met_pos_neg_quad.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\met_pos_neg_quad\met_pos_neg_quad\obj\Debug\net10.0\met_pos_neg_quad.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\met_pos_neg_quad\met_pos_neg_quad\obj\Debug\net10.0\met_pos_neg_quad.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\met_pos_neg_quad\met_pos_neg_quad\obj\Debug\net10.0\refint\met_pos_neg_quad.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\met_pos_neg_quad\met_pos_neg_quad\obj\Debug\net10.0\met_pos_neg_quad.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\met_pos_neg_quad\met_pos_neg_quad\obj\Debug\net10.0\met_pos_neg_quad.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 6\met_pos_neg_quad\met_pos_neg_quad\obj\Debug\net10.0\ref\met_pos_neg_quad.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1\u00BA ano\\programa\u00E7\u00E3o e algoritimo\\2\u00BA bim\\c#(c sharp)\\aula 6\\met_pos_neg_quad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13F6BBEF-6510-2C86-7F8F-14221EFEFEE9}|met_pos_neg_quad\\met_pos_neg_quad.csproj|d:\\1\u00BA ano\\programa\u00E7\u00E3o e algoritimo\\2\u00BA bim\\c#(c sharp)\\aula 6\\met_pos_neg_quad\\met_pos_neg_quad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F6BBEF-6510-2C86-7F8F-14221EFEFEE9}|met_pos_neg_quad\\met_pos_neg_quad.csproj|solutionrelative:met_pos_neg_quad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\1\u00BA ano\\programa\u00E7\u00E3o e algoritimo\\2\u00BA bim\\c#(c sharp)\\aula 6\\met_pos_neg_quad\\met_pos_neg_quad\\Program.cs",
+              "RelativeDocumentMoniker": "met_pos_neg_quad\\Program.cs",
+              "ToolTip": "D:\\1\u00BA ano\\programa\u00E7\u00E3o e algoritimo\\2\u00BA bim\\c#(c sharp)\\aula 6\\met_pos_neg_quad\\met_pos_neg_quad\\Program.cs",
+              "RelativeToolTip": "met_pos_neg_quad\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T16:08:58.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

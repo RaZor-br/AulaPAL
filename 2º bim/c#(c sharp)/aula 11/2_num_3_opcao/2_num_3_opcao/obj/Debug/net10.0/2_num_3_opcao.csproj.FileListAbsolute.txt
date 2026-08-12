@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\2_num_3_opcao\2_num_3_opcao\bin\Debug\net10.0\2_num_3_opcao.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\2_num_3_opcao\2_num_3_opcao\bin\Debug\net10.0\2_num_3_opcao.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\2_num_3_opcao\2_num_3_opcao\bin\Debug\net10.0\2_num_3_opcao.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\2_num_3_opcao\2_num_3_opcao\bin\Debug\net10.0\2_num_3_opcao.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\2_num_3_opcao\2_num_3_opcao\bin\Debug\net10.0\2_num_3_opcao.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\2_num_3_opcao\2_num_3_opcao\obj\Debug\net10.0\2_num_3_opcao.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\2_num_3_opcao\2_num_3_opcao\obj\Debug\net10.0\2_num_3_opcao.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\2_num_3_opcao\2_num_3_opcao\obj\Debug\net10.0\2_num_3_opcao.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\2_num_3_opcao\2_num_3_opcao\obj\Debug\net10.0\2_num_3_opcao.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\2_num_3_opcao\2_num_3_opcao\obj\Debug\net10.0\2_num_3_opcao.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\2_num_3_opcao\2_num_3_opcao\obj\Debug\net10.0\refint\2_num_3_opcao.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\2_num_3_opcao\2_num_3_opcao\obj\Debug\net10.0\2_num_3_opcao.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\2_num_3_opcao\2_num_3_opcao\obj\Debug\net10.0\2_num_3_opcao.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\2_num_3_opcao\2_num_3_opcao\obj\Debug\net10.0\ref\2_num_3_opcao.dll

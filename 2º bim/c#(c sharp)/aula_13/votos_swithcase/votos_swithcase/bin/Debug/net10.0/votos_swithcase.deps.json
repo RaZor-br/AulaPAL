@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "votos_swithcase/1.0.0": {
+        "runtime": {
+          "votos_swithcase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "votos_swithcase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

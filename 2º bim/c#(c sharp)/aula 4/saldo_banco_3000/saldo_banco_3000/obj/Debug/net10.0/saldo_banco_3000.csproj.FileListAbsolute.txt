@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\saldo_banco_3000\saldo_banco_3000\bin\Debug\net10.0\saldo_banco_3000.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\saldo_banco_3000\saldo_banco_3000\bin\Debug\net10.0\saldo_banco_3000.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\saldo_banco_3000\saldo_banco_3000\bin\Debug\net10.0\saldo_banco_3000.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\saldo_banco_3000\saldo_banco_3000\bin\Debug\net10.0\saldo_banco_3000.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\saldo_banco_3000\saldo_banco_3000\bin\Debug\net10.0\saldo_banco_3000.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\saldo_banco_3000\saldo_banco_3000\obj\Debug\net10.0\saldo_banco_3000.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\saldo_banco_3000\saldo_banco_3000\obj\Debug\net10.0\saldo_banco_3000.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\saldo_banco_3000\saldo_banco_3000\obj\Debug\net10.0\saldo_banco_3000.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\saldo_banco_3000\saldo_banco_3000\obj\Debug\net10.0\saldo_banco_3000.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\saldo_banco_3000\saldo_banco_3000\obj\Debug\net10.0\saldo_banco_3000.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\saldo_banco_3000\saldo_banco_3000\obj\Debug\net10.0\refint\saldo_banco_3000.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\saldo_banco_3000\saldo_banco_3000\obj\Debug\net10.0\saldo_banco_3000.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\saldo_banco_3000\saldo_banco_3000\obj\Debug\net10.0\saldo_banco_3000.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 4\saldo_banco_3000\saldo_banco_3000\obj\Debug\net10.0\ref\saldo_banco_3000.dll

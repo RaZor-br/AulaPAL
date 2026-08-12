@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\simbolo_operacao\simbolo_operacao\obj\Debug\net10.0\simbolo_operacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\simbolo_operacao\simbolo_operacao\obj\Debug\net10.0\simbolo_operacao.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\simbolo_operacao\simbolo_operacao\obj\Debug\net10.0\simbolo_operacao.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\simbolo_operacao\simbolo_operacao\obj\Debug\net10.0\simbolo_operacao.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\simbolo_operacao\simbolo_operacao\bin\Debug\net10.0\simbolo_operacao.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\simbolo_operacao\simbolo_operacao\bin\Debug\net10.0\simbolo_operacao.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\simbolo_operacao\simbolo_operacao\bin\Debug\net10.0\simbolo_operacao.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\simbolo_operacao\simbolo_operacao\bin\Debug\net10.0\simbolo_operacao.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\simbolo_operacao\simbolo_operacao\bin\Debug\net10.0\simbolo_operacao.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\simbolo_operacao\simbolo_operacao\obj\Debug\net10.0\simbolo_operacao.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\simbolo_operacao\simbolo_operacao\obj\Debug\net10.0\refint\simbolo_operacao.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\simbolo_operacao\simbolo_operacao\obj\Debug\net10.0\simbolo_operacao.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\simbolo_operacao\simbolo_operacao\obj\Debug\net10.0\simbolo_operacao.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 11\simbolo_operacao\simbolo_operacao\obj\Debug\net10.0\ref\simbolo_operacao.dll

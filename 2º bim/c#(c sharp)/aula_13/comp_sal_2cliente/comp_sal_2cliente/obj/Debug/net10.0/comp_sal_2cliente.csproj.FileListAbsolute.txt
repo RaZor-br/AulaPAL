@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\comp_sal_2cliente\comp_sal_2cliente\bin\Debug\net10.0\comp_sal_2cliente.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\comp_sal_2cliente\comp_sal_2cliente\bin\Debug\net10.0\comp_sal_2cliente.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\comp_sal_2cliente\comp_sal_2cliente\bin\Debug\net10.0\comp_sal_2cliente.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\comp_sal_2cliente\comp_sal_2cliente\bin\Debug\net10.0\comp_sal_2cliente.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\comp_sal_2cliente\comp_sal_2cliente\bin\Debug\net10.0\comp_sal_2cliente.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\comp_sal_2cliente\comp_sal_2cliente\obj\Debug\net10.0\comp_sal_2cliente.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\comp_sal_2cliente\comp_sal_2cliente\obj\Debug\net10.0\comp_sal_2cliente.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\comp_sal_2cliente\comp_sal_2cliente\obj\Debug\net10.0\comp_sal_2cliente.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\comp_sal_2cliente\comp_sal_2cliente\obj\Debug\net10.0\comp_sal_2cliente.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\comp_sal_2cliente\comp_sal_2cliente\obj\Debug\net10.0\comp_sal_2cliente.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\comp_sal_2cliente\comp_sal_2cliente\obj\Debug\net10.0\refint\comp_sal_2cliente.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\comp_sal_2cliente\comp_sal_2cliente\obj\Debug\net10.0\comp_sal_2cliente.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\comp_sal_2cliente\comp_sal_2cliente\obj\Debug\net10.0\comp_sal_2cliente.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\comp_sal_2cliente\comp_sal_2cliente\obj\Debug\net10.0\ref\comp_sal_2cliente.dll

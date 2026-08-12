@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\notas_conceito\notas_conceito\bin\Debug\net10.0\notas_conceito.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\notas_conceito\notas_conceito\bin\Debug\net10.0\notas_conceito.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\notas_conceito\notas_conceito\bin\Debug\net10.0\notas_conceito.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\notas_conceito\notas_conceito\bin\Debug\net10.0\notas_conceito.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\notas_conceito\notas_conceito\bin\Debug\net10.0\notas_conceito.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\notas_conceito\notas_conceito\obj\Debug\net10.0\notas_conceito.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\notas_conceito\notas_conceito\obj\Debug\net10.0\notas_conceito.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\notas_conceito\notas_conceito\obj\Debug\net10.0\notas_conceito.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\notas_conceito\notas_conceito\obj\Debug\net10.0\notas_conceito.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\notas_conceito\notas_conceito\obj\Debug\net10.0\notas_conceito.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\notas_conceito\notas_conceito\obj\Debug\net10.0\refint\notas_conceito.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\notas_conceito\notas_conceito\obj\Debug\net10.0\notas_conceito.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\notas_conceito\notas_conceito\obj\Debug\net10.0\notas_conceito.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula 7\notas_conceito\notas_conceito\obj\Debug\net10.0\ref\notas_conceito.dll

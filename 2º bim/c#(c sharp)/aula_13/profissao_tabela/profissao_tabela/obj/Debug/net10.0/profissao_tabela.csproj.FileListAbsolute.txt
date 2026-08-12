@@ -1,0 +1,14 @@
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\profissao_tabela\profissao_tabela\bin\Debug\net10.0\profissao_tabela.exe
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\profissao_tabela\profissao_tabela\bin\Debug\net10.0\profissao_tabela.deps.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\profissao_tabela\profissao_tabela\bin\Debug\net10.0\profissao_tabela.runtimeconfig.json
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\profissao_tabela\profissao_tabela\bin\Debug\net10.0\profissao_tabela.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\profissao_tabela\profissao_tabela\bin\Debug\net10.0\profissao_tabela.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\profissao_tabela\profissao_tabela\obj\Debug\net10.0\profissao_tabela.GeneratedMSBuildEditorConfig.editorconfig
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\profissao_tabela\profissao_tabela\obj\Debug\net10.0\profissao_tabela.AssemblyInfoInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\profissao_tabela\profissao_tabela\obj\Debug\net10.0\profissao_tabela.AssemblyInfo.cs
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\profissao_tabela\profissao_tabela\obj\Debug\net10.0\profissao_tabela.csproj.CoreCompileInputs.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\profissao_tabela\profissao_tabela\obj\Debug\net10.0\profissao_tabela.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\profissao_tabela\profissao_tabela\obj\Debug\net10.0\refint\profissao_tabela.dll
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\profissao_tabela\profissao_tabela\obj\Debug\net10.0\profissao_tabela.pdb
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\profissao_tabela\profissao_tabela\obj\Debug\net10.0\profissao_tabela.genruntimeconfig.cache
+D:\1º ano\programação e algoritimo\2º bim\c#(c sharp)\aula_13\profissao_tabela\profissao_tabela\obj\Debug\net10.0\ref\profissao_tabela.dll
