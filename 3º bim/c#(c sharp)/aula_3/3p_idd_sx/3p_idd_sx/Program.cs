@@ -1,0 +1,1 @@
+﻿float idd1, idd2, idd3,
